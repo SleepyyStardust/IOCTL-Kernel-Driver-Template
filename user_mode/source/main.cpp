@@ -59,8 +59,9 @@ int main()
 
     // End
 
-	std::cout << "End of Cheat.\n";
+	std::cout << "End of Usermode Application.\n";
 	std::cin.get();
 
 	return 0;
+
 }
