@@ -44,8 +44,8 @@ Converts a Win32 error code to a human‑readable string using FormatMessageA. U
 
 ✅ offsets.h  
 Basic namespace for storing memory offsets:  
-namespace offsets  
 ```cpp
+namespace offsets  
 {  
     ::uintptr_t exampleOffset = 0xEC;  
 }
